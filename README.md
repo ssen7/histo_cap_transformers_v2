@@ -2,6 +2,9 @@
 
 WARNING! Experimental code
 ## Log
+### Date: Jan 24, 2024
+Added a full inference pipeline with added visualization code.
+
 ### Date: Jan 22, 2024
 Experimental code for new approach to generate histopathology captions.
 
